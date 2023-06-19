@@ -1,0 +1,7 @@
+[user]
+	name = Antonio Costa
+	email = 97892233+afsec@users.noreply.github.com
+[init]
+	defaultBranch = main
+[diff]
+	external = difft

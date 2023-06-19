@@ -1,0 +1,11 @@
+# ~/.config/helix/languages.toml
+[[language]]
+name = "rust"
+
+[language.config]
+cachePriming.enable = false
+diagnostics.experimental.enable = true
+checkOnSave = { command = "clippy" }
+
+[language-server.rust-analyzer.config.check]
+command = "clippy"
