@@ -26,5 +26,5 @@ if [ -d "$HOME/.local/bin" ] ; then
     PATH="$HOME/.local/bin:$PATH"
 fi
 
-export LOCALE_ARCHIVE=/usr/lib/locale/locale-archive
+# export LOCALE_ARCHIVE=/usr/lib/locale/locale-archive
 export LESS="-R"
