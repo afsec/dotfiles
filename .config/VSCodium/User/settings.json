@@ -1,0 +1,10 @@
+{
+    "workbench.startupEditor": "none",
+    "window.titleBarStyle": "custom",
+    "window.zoomLevel": 1,
+    "editor.rulers": [80],
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#5f5f62"
+    },
+    "workbench.activityBar.location": "top"
+}
