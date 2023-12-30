@@ -9,3 +9,8 @@ Customize Activity bar position:
 ```json
 "window.titleBarStyle": "custom"
 ```
+## SSH key with yubikey
+
+```sh
+ssh-keygen -t ed25519-sk -C default
+```
