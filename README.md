@@ -4,7 +4,7 @@
 
 Customize Activity bar position:
 
-`$HOME/.config/vscode/User/settings.json`
+`$HOME/.config/Code/User/settings.json`
 
 ```json
 "window.titleBarStyle": "custom"
